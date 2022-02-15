@@ -1,0 +1,1 @@
+function regidHistoryBack(){window.history.back();}function regidReload(){window.location.reload();}function regidBackToTop(){document.body.scrollTop = 0;document.documentElement.scrollTop = 0;}
